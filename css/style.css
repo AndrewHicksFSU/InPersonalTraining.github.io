@@ -1,0 +1,103 @@
+/*************************************************
+HTML CSS
+*************************************************/
+header{
+	background-image:url("banner.png");
+	background-size: cover;
+	background-position: right;
+	height: 70vh;
+}
+
+nav{
+	background-color: #96D8E5;
+	margin:0;
+	padding: 0;
+}
+
+
+
+h1{
+	color: #fff;
+	font-size: 4rem;
+	text-transform: uppercase;
+}
+
+h2{
+	text-align: center;
+}
+
+section{
+	padding: 5% 15%;
+}
+
+
+/*************************************************
+PAGE BREAKS
+*************************************************/
+
+.page-break-image{
+	margin:0 auto;
+}
+
+/*************************************************
+NAVBAR
+*************************************************/
+
+.navbar{
+	padding:;
+}
+.navbar-nav{
+	font-size: 1.5rem;
+	color: #fff;
+}
+
+.navbar-brand{
+	font-size: 2rem;
+}
+
+/*************************************************
+HEADER
+*************************************************/
+
+.heading-p{
+	color: #fff;
+}
+
+
+/*************************************************
+ABOUT
+*************************************************/
+
+.about-pic{
+	padding-left: 5%;
+	height: 100%;
+}
+
+.about-p{
+	margin-right: 25px;
+}
+
+
+/*************************************************
+WHY WE'RE DIFFERENT
+*************************************************/
+
+#different{
+	text-align: center;
+}
+
+
+/*************************************************
+PROGRAMS
+*************************************************/
+
+
+.programs-image{
+	height: 920px;
+	width: auto;
+}
+
+
+.programs{
+	margin:auto 0;
+}
